@@ -142,7 +142,7 @@ All available configs are in [Themes](./Themes/) directory.
 
 ## Previewing a theme
 
-You can preview the set theme without logging out by runnning:
+You can preview the set theme without logging out by running:
 ```sh
 sddm-greeter-qt6 --test-mode --theme /usr/share/sddm/themes/sddm-astronaut-theme/
 ```
@@ -150,9 +150,9 @@ sddm-greeter-qt6 --test-mode --theme /usr/share/sddm/themes/sddm-astronaut-theme
 
 ## Sources
 
-Initially the theme was independed fork of [MarianArlt's theme](https://github.com/MarianArlt/sddm-sugar-dark) but now the project has come a long way and started to significantly deviate from the original.
+Initially the theme was independent fork of [MarianArlt's theme](https://github.com/MarianArlt/sddm-sugar-dark) but now the project has come a long way and started to significantly deviate from the original.
 Many of the wallpapers and fonts used in this project are very popular and copied from one user to another, so I don't know who the original creator is. 
-I also redesigned many of them, but here are links to some of the orginal artists who created these wonderful wallpapers:
+I also redesigned many of them, but here are links to some of the original artists who created these wonderful wallpapers:
 
 - Astronaut: [wallpaper](https://wallhaven.cc/w/e76pew), [font](https://fonts.google.com/specimen/Open+Sans/about)
 - Black hole: [wallpaper](https://images2.alphacoders.com/114/1141632.jpg), [font](https://www.1001fonts.com/espacion-font.html)
